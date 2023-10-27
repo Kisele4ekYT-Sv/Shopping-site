@@ -7,7 +7,7 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="idkfwt">
 <meta property="og:title" content="SPWorldX">
-<meta property="og:description" content="Дополнительный контент для серверов СП">
+<meta property="og:description" content="Дополнительный контент для сервера ShellWorlds">
 <meta property="og:image" content="/img/icon.ico">
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,7 +24,7 @@
 <!-- Yandex.RTB -->
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="../ads/system/context.js" async=""></script>    <link rel="stylesheet" href="../npm/swiper%4010/swiper-bundle.min.css">
-    <title>FreshMarket | Главная</title>
+    <title>xenaro | Главная</title>
 </head>
 <script async="" src="../gtag/js?id=G-2S9NV70PWT"></script>
 <script>
@@ -56,12 +56,12 @@
         <div class="w-full h-20 bg-basic-l2 flex justify-center">
     <div class="px-2 w-full 2xl:w-9/12 xl:w-10/12 lg:w-10/12 md:w-11/12 flex">
         <a href="../index-1.htm" class="w-1/2 md:2/12 flex justify-center items-center cursor-default">
-            <div class="text-blue-300 text-2xl opacity-80 duration-100 hover:opacity-100">FreshMarket</div>
+            <div class="text-blue-300 text-2xl opacity-80 duration-100 hover:opacity-100">xenaro</div>
         </a>
         <div class="w-8/12 hidden md:flex">
             <nav class="text-white h-full text-xl items-center justify-center gap-10 flex">
                 <a href="index.htm" class="nav-el-selected">Главная</a>
-                <a href="../info/freshmarket/index.htm" class="nav-el">Информация</a>
+                <a href="../info/xenaro/index.htm" class="nav-el">Информация</a>
                 <a href="index.htm" class="nav-el">Работа</a>
             </nav>
         </div>
@@ -80,19 +80,19 @@
                 <div class="flex items-center justify-center mt-20 gap-5">
                     <div class="w-full">
                         <h1 class="text-4xl font-bold text-white">
-                            <span class="text-blue-400">FreshMarket</span> онлайн-магазин
+                            <span class="text-blue-400">xenaro</span> онлайн-магазин
                             <br>
                             <span class="text-green-400">Покупай</span> и <span class="text-red-400">Продавай</span> легко!
                         </h1>
                         <div class="mt-3 ml-2 flex flex-col sm:flex-row gap-4">
-                            <a href="../info/freshmarket/index.htm" class="bg-blue-300 text-blue-700 py-2 px-4 rounded-xl opacity-70 duration-100 hover:opacity-90">Что это?</a>
+                            <a href="../info/xenaro/index.htm" class="bg-blue-300 text-blue-700 py-2 px-4 rounded-xl opacity-70 duration-100 hover:opacity-90">Что это?</a>
                             <a href="https://discord.gg/JfSTVeyHFT" class="bg-violet-500 text-violet-100 py-2 px-4 rounded-xl opacity-70 duration-100 hover:opacity-90">Связаться с нами</a>
                             <a href="https://discord.gg/JfSTVeyHFT" class="bg-green-400 text-green-700 py-2 px-4 rounded-xl opacity-70 duration-100 hover:opacity-90">Стать работником!</a>
                             <a href="index.htm" class="bg-rose-600 text-rose-100 py-2 px-4 rounded-xl opacity-70 duration-100 hover:opacity-90">Стать продавцом!</a>
                         </div>
                         <div class="w-full h-8 mt-2">
                             <div class="bg-basic-l0 rounded-lg h-full w-full text-white/[.7] flex">
-                                <form action="/freshmarket/track/" method="get" class="w-full flex px-2 py-[2px]">
+                                <form action="/xenaro/track/" method="get" class="w-full flex px-2 py-[2px]">
                                     <input name="track" placeholder="Введите трек-номер" type="text" min="1" max="11" class="w-full h-full bg-white/[0] focus:shadow-none">
                                     <input type="submit" class="h-full w-8 bg-[url('/img/search.png')] bg-contain bg-no-repeat cursor-pointer" value="">
                                 </form>
@@ -4448,7 +4448,7 @@ document.getElementById("location_selector_menu_submit").addEventListener("click
     total_selected_location = selected_location[0];
 
     document.getElementById("total_selected_location_name").innerHTML = selected_location[2];
-    document.getElementById("total_selected_location_name").href = "/freshmarket/point/?id="+selected_location[0];
+    document.getElementById("total_selected_location_name").href = "/xenaro/point/?id="+selected_location[0];
     
     close_location_selector();
     open_cart();
@@ -4610,7 +4610,7 @@ render();
                     <button id="cart_submit" class="w-full py-1 text-lg bg-violet-500 disabled:bg-red-500 rounded-xl opacity-90 hover:opacity-100" disabled="">Добавьте что-нибудь в корзину</button>
                     <div class="flex gap-3 justify-center items-center mt-3">
                         <input class="w-6 h-6 border-4 border-cyan-600" id="cart_check" type="checkbox" required="">
-                        Я согласен с <a href="../info/freshmarket/terms/index.htm" class="text-blue-500 underline">соглашением</a>
+                        Я согласен с <a href="../info/xenaro/terms/index.htm" class="text-blue-500 underline">соглашением</a>
                     </div>
                     <script>
                         function buy_failed(title, description, update) {
@@ -4699,7 +4699,7 @@ render();
                                         // On response
                                         console.log(xhr.responseText);
                                         if (xhr.responseText == "null") {
-                                            buy_failed("SPWorlds не доступен", "Ждём пока перестанут ддосить сайт", null);
+                                            buy_failed("ShellWorlds не доступен", "Ждём пока перестанут ддосить сайт", null);
                                             return;
                                         }
                                         const response = JSON.parse(xhr.responseText);
@@ -4777,7 +4777,7 @@ render();
     <div class="w-full h-20 bg-basic-l2 flex justify-center">
         <nav class="text-white h-full text-xl items-center justify-center gap-4 flex">
             <a href="index.htm" class="mob-nav-el-selected"><img class="w-8 h-8 mx-auto" src="../img/home-1.png">Главная</a>
-            <a href="../info/freshmarket/index.htm" class="mob-nav-el"><img class="w-8 h-8 mx-auto" src="../img/info-1.png">Информация</a>
+            <a href="../info/xenaro/index.htm" class="mob-nav-el"><img class="w-8 h-8 mx-auto" src="../img/info-1.png">Информация</a>
         </nav>
     </div>
 </div>
@@ -4855,11 +4855,11 @@ render();
                 const storage_json_decoded = JSON.parse(localStorage.getItem("work_session"));
                 const response_json_decoded = JSON.parse(xhr.responseText);
 
-                check_and_send_notify(response_json_decoded, storage_json_decoded, "delivery", "Курьер", "Доставка", "/img/banner.png", "/img/delivery_mark.png", "/img/delivery_mark.png", "/freshmarket/workzone/delivery");
-                check_and_send_notify(response_json_decoded, storage_json_decoded, "logic_deposit", "Логист", "Пополнение", "/img/banner.png", "/img/logic.png", "/img/logic.png", "/freshmarket/workzone/logic");
-                check_and_send_notify(response_json_decoded, storage_json_decoded, "logic_orders", "Логист", "Сбор доставки", "/img/banner.png", "/img/logic.png", "/img/logic.png", "/freshmarket/workzone/logic");
-                check_and_send_notify(response_json_decoded, storage_json_decoded, "secretary_verificaton", "Секретарь", "Верификация", "/img/banner.png", "/img/secretary.png", "/img/secretary.png", "/freshmarket/workzone/secretary");
-                check_and_send_notify(response_json_decoded, storage_json_decoded, "secretary_delete", "Секретарь", "Удаление", "/img/banner.png", "/img/secretary.png", "/img/secretary.png", "/freshmarket/workzone/secretary");
+                check_and_send_notify(response_json_decoded, storage_json_decoded, "delivery", "Курьер", "Доставка", "/img/banner.png", "/img/delivery_mark.png", "/img/delivery_mark.png", "/xenaro/workzone/delivery");
+                check_and_send_notify(response_json_decoded, storage_json_decoded, "logic_deposit", "Логист", "Пополнение", "/img/banner.png", "/img/logic.png", "/img/logic.png", "/xenaro/workzone/logic");
+                check_and_send_notify(response_json_decoded, storage_json_decoded, "logic_orders", "Логист", "Сбор доставки", "/img/banner.png", "/img/logic.png", "/img/logic.png", "/xenaro/workzone/logic");
+                check_and_send_notify(response_json_decoded, storage_json_decoded, "secretary_verificaton", "Секретарь", "Верификация", "/img/banner.png", "/img/secretary.png", "/img/secretary.png", "/xenaro/workzone/secretary");
+                check_and_send_notify(response_json_decoded, storage_json_decoded, "secretary_delete", "Секретарь", "Удаление", "/img/banner.png", "/img/secretary.png", "/img/secretary.png", "/xenaro/workzone/secretary");
 
                 localStorage.setItem("work_session", xhr.responseText);
             }
