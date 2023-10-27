@@ -1,4 +1,4 @@
-﻿﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="theme-color" content="#777777">
@@ -4127,8 +4127,13 @@
                                     cart_submit.innerHTML = "Добавьте что-нибудь в корзину";
                                     cart_submit.disabled = true;
                                 } else {
-                                    cart_submit.innerHTML = "Купить за "+total_ars+"АР";
-                                    cart_submit.disabled = false;
+                                    <button id="buyButton">Купить</button>
+
+<script>
+document.getElementById("buyButton").addEventListener("click", function() {
+    window.location.href = "ссылка_на_ваш_дискорд_сервер"; // Замените "ссылка_на_ваш_дискорд_сервер" на реальную ссылку на ваш сервер
+});
+</script>
                                 }
                             }
 
