@@ -1,0 +1,788 @@
+Uri: http://spx.zaralx.ru/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\index-1.htm
+Content Type: text/html
+
+Uri: http://spx.zaralx.ru/api/products/icons/036bd96aeaec4a5473614f98c46aaca3.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\036bd96aeaec4a5473614f98c46aaca3.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/0dd0bb43401097fd93a65d9cc89e464c.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\0dd0bb43401097fd93a65d9cc89e464c.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/0e0bb02755c33892516788d5204322ea.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\0e0bb02755c33892516788d5204322ea.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/0e6f0624032f845a6f204d89dc64b09d.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\0e6f0624032f845a6f204d89dc64b09d.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/0f135c52079f7ff44641160422527772.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\0f135c52079f7ff44641160422527772.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/115b99f091fe0f008f6624417dcac622.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\115b99f091fe0f008f6624417dcac622.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/12a8f63806383212dab77b48e10c7ab1.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\12a8f63806383212dab77b48e10c7ab1.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/157a4ecaba65ee99f8f36dc6b7b9e9ac.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\157a4ecaba65ee99f8f36dc6b7b9e9ac.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/19ef5dd00503a086ad28b2b9a7ccbec3.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\19ef5dd00503a086ad28b2b9a7ccbec3.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/1aeed86873a355f41bb57ae199571538.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\1aeed86873a355f41bb57ae199571538.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/21b0d9208da7933d20fd016a2faccfc6.jfif
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\21b0d9208da7933d20fd016a2faccfc6.jfif
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/2394e1077eb50d9efe41728f79230cff.webp
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\2394e1077eb50d9efe41728f79230cff.webp
+Content Type: image/webp
+
+Uri: http://spx.zaralx.ru/api/products/icons/23e94c3e3b999a4c7dacee81f490738b.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\23e94c3e3b999a4c7dacee81f490738b.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/25f19e2b77e3c8362fd5e25d1d5abbaa.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\25f19e2b77e3c8362fd5e25d1d5abbaa.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/26b158dff03f7725504d424556a074a5.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\26b158dff03f7725504d424556a074a5.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/2aad844899aea07b07ea3dec19a357f2.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\2aad844899aea07b07ea3dec19a357f2.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/2e7fecac2dfb49785012d8483638eec8.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\2e7fecac2dfb49785012d8483638eec8.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/2e89043aae83deca389a74f2ba24adcc.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\2e89043aae83deca389a74f2ba24adcc.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/2fda561df798e26bf451aa1fbfa737b8.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\2fda561df798e26bf451aa1fbfa737b8.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/361d1b5e00bf26852a53da27a9306170.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\361d1b5e00bf26852a53da27a9306170.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/399ac11dd66da796710b0259068d8478.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\399ac11dd66da796710b0259068d8478.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/4bb7e03cca8dad898d9a55383c113f34.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\4bb7e03cca8dad898d9a55383c113f34.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/4c0b979e6caa92de9bde9170ceeace1f.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\4c0b979e6caa92de9bde9170ceeace1f.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/4e2bacb5d9e79fd4c99a285ce98dc40a.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\4e2bacb5d9e79fd4c99a285ce98dc40a.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/517d7072d7c226f8159c2a35c8c9c4f6.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\517d7072d7c226f8159c2a35c8c9c4f6.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/537f981ee002cae3b5052065ab7cd854.webp
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\537f981ee002cae3b5052065ab7cd854.webp
+Content Type: image/webp
+
+Uri: http://spx.zaralx.ru/api/products/icons/584162b0404841be2f5ad3a084149723.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\584162b0404841be2f5ad3a084149723.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/58bf14e049ea00249f7b616046160429.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\58bf14e049ea00249f7b616046160429.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/58cfa2f3f7f521769941e9acd87c64f0.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\58cfa2f3f7f521769941e9acd87c64f0.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/60c692244e77d2a36704e9fb66a0e022.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\60c692244e77d2a36704e9fb66a0e022.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/68546b52715dc40a3a4086810873c522.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\68546b52715dc40a3a4086810873c522.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/6a6920af0f28517c2a1df1a3083838b5.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\6a6920af0f28517c2a1df1a3083838b5.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/6a9f99f42f7d33800207e1ac5910716a.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\6a9f99f42f7d33800207e1ac5910716a.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/6bfb8ac0a8c29fc8b2d4074f401df38d.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\6bfb8ac0a8c29fc8b2d4074f401df38d.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/703acc7358b7b23ca5327920168f91f3.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\703acc7358b7b23ca5327920168f91f3.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/721d98302a3909693630faca7618efff.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\721d98302a3909693630faca7618efff.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/743d09e410631c03b2014536f085bf9d.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\743d09e410631c03b2014536f085bf9d.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/75c798506deee88c7cb3857496bac69c.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\75c798506deee88c7cb3857496bac69c.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/76947b05f99b4d9ae444fbb96fb6b4ab.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\76947b05f99b4d9ae444fbb96fb6b4ab.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/7afd6fcf7317879bff44616ac7484111.webp
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\7afd6fcf7317879bff44616ac7484111.webp
+Content Type: image/webp
+
+Uri: http://spx.zaralx.ru/api/products/icons/7bf2efd3795605f66c77463d6d9c5b72.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\7bf2efd3795605f66c77463d6d9c5b72.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/81edb4a61f3909d39f7a080effafd318.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\81edb4a61f3909d39f7a080effafd318.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/83372ad0cb24cdc3087dd08b78387e54.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\83372ad0cb24cdc3087dd08b78387e54.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/8456f23928a6e14a891d9abbc66d347b.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\8456f23928a6e14a891d9abbc66d347b.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/84be6771e1c8f04f8c5ed80cdcdf82fc.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\84be6771e1c8f04f8c5ed80cdcdf82fc.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/883f0e54af3703fd57de4bf2ef92215e.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\883f0e54af3703fd57de4bf2ef92215e.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/8a1b7b071a69947d6591288fd6616eba.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\8a1b7b071a69947d6591288fd6616eba.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/8bf2dcbbef68ee6914d9fee7a0aea842.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\8bf2dcbbef68ee6914d9fee7a0aea842.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/928911806255fb2325ba649c3fe7837a.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\928911806255fb2325ba649c3fe7837a.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/9949358cb6c76c5d03aaf7dc6a816b69.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\9949358cb6c76c5d03aaf7dc6a816b69.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/a2afa19c32028b9feb4aafc5b0102709.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\a2afa19c32028b9feb4aafc5b0102709.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/ac8bc8c9b54d9056d96a6807adab7010.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\ac8bc8c9b54d9056d96a6807adab7010.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/ace14dc6ebb1ae7f6e9042524d815f72.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\ace14dc6ebb1ae7f6e9042524d815f72.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/af11b626a69a36f45c5825082355058e.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\af11b626a69a36f45c5825082355058e.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/af9c0a2db5f2a9066055964d02080bf3.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\af9c0a2db5f2a9066055964d02080bf3.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/b12710a57044d6ea645d2c9bc156498b.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\b12710a57044d6ea645d2c9bc156498b.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/b4c0a321069ba7c3b2b85a9561d46f30.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\b4c0a321069ba7c3b2b85a9561d46f30.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/b80d1c8515b1e121b6cdc366eb737a7a.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\b80d1c8515b1e121b6cdc366eb737a7a.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/ba46b564f0df471c54078dba1e7bcf2b.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\ba46b564f0df471c54078dba1e7bcf2b.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/bd385cfc5eefabee54a4c05a64299feb.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\bd385cfc5eefabee54a4c05a64299feb.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/c5eca41a77428a59876355a282bb2022.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\c5eca41a77428a59876355a282bb2022.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/c8d82fd2cc6b73ffa6cbad9ecbf48e2d.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\c8d82fd2cc6b73ffa6cbad9ecbf48e2d.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/ca77c98c9bfb600a9f0521afb2432a2d.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\ca77c98c9bfb600a9f0521afb2432a2d.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/cc2acb36c787bd7675b293e8b23d8f8b.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\cc2acb36c787bd7675b293e8b23d8f8b.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/cc5d09d8d5b1d873cf358bf1afebfde6.gif
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\cc5d09d8d5b1d873cf358bf1afebfde6.gif
+Content Type: image/gif
+
+Uri: http://spx.zaralx.ru/api/products/icons/ce96385f86554b6008b75eca8024ecbe.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\ce96385f86554b6008b75eca8024ecbe.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/cf65774e6a60a85514c7f25c4b7f2f67.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\cf65774e6a60a85514c7f25c4b7f2f67.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/cf6e4cea4fe68e33eec04fffe8edaeef.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\cf6e4cea4fe68e33eec04fffe8edaeef.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/d00440739849e895abb5aa97065e0ee4.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d00440739849e895abb5aa97065e0ee4.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/d2faf6c91d20efc1af8a050b7d8c0739.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d2faf6c91d20efc1af8a050b7d8c0739.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/d31ceb7c760a58b5d29c51a0091ca860.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d31ceb7c760a58b5d29c51a0091ca860.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/d3f1b0963a2aba8113c9df57786bbb1e.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d3f1b0963a2aba8113c9df57786bbb1e.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/d4b7ad9009f801072efd8a1c2453820c.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d4b7ad9009f801072efd8a1c2453820c.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/d5d0be4490f343b663f1a015d70d8a7d.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\d5d0be4490f343b663f1a015d70d8a7d.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/da44978f134ec7dbf77499e34ccec265.webp
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\da44978f134ec7dbf77499e34ccec265.webp
+Content Type: image/webp
+
+Uri: http://spx.zaralx.ru/api/products/icons/e028b77565154ff951af129fd402b1d9.jpg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\e028b77565154ff951af129fd402b1d9.jpg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/api/products/icons/e1d4a1f2a7adf0d625616ae5bad436c6.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\e1d4a1f2a7adf0d625616ae5bad436c6.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/e9b40b6c96cdeefe47956100171fcebc.PNG
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\e9b40b6c96cdeefe47956100171fcebc.PNG
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/eb3d1d0074bde01b689cd1a0e25c5bd3.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\eb3d1d0074bde01b689cd1a0e25c5bd3.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/f12710c7492a719ec72182060953244a.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\f12710c7492a719ec72182060953244a.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/f16f4ef764ba49a55cf9888829e7e580.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\f16f4ef764ba49a55cf9888829e7e580.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/api/products/icons/f1dac3dff6e8bdaa80ab1759a0c563e6.webp
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\f1dac3dff6e8bdaa80ab1759a0c563e6.webp
+Content Type: image/webp
+
+Uri: http://spx.zaralx.ru/api/products/icons/fae12f4ad725859759be526c0d2587d2.jpeg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\api\products\icons\fae12f4ad725859759be526c0d2587d2.jpeg
+Content Type: image/jpeg
+
+Uri: http://spx.zaralx.ru/css/style.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\style-1.css
+Content Type: text/css
+
+Uri: http://spx.zaralx.ru/css/tailwind.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\tailwind-1.css
+Content Type: text/css
+
+Uri: http://spx.zaralx.ru/css/tailwind.js
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\tailwind-1.js
+Content Type: application/javascript
+
+Uri: http://spx.zaralx.ru/font/minecraft/16326.woff
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\16326-1.woff
+Content Type: font/woff
+
+Uri: http://spx.zaralx.ru/font/minecraft/16326.woff2
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\16326-1.woff2
+Content Type: font/woff2
+
+Uri: http://spx.zaralx.ru/font/minecraft/stylesheet.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\stylesheet-1.css
+Content Type: text/css
+
+Uri: http://spx.zaralx.ru/freshmarket/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\freshmarket\index.htm
+Content Type: text/html
+
+Uri: http://spx.zaralx.ru/img/cart.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\cart.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/donation_alerts.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\donation_alerts-1.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/home.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\home-1.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/icon.ico
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\icon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://spx.zaralx.ru/img/info.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\info-1.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/login.svg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\login-1.svg
+Content Type: image/svg+xml
+
+Uri: http://spx.zaralx.ru/img/market.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\market-1.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/search.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\search.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/img/x.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\x.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/info/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\info\index.htm
+Content Type: text/html
+
+Uri: http://spx.zaralx.ru/info/freshmarket/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\info\freshmarket\index.htm
+Content Type: text/html
+
+Uri: http://spx.zaralx.ru/info/freshmarket/terms/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\info\freshmarket\terms\index.htm
+Content Type: text/html
+
+Uri: http://spx.zaralx.ru/minecraft_assets/acacia_log.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\acacia_log.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/andesite.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\andesite.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/apple.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\apple.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/axolotl_bucket.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\axolotl_bucket.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/blue_ice.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\blue_ice.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/brown_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\brown_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/coast_armor_trim_smithing_template.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\coast_armor_trim_smithing_template.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/cobweb.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\cobweb.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/cyan_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\cyan_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_axe.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_axe.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_boots.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_boots.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_chestplate.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_chestplate.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_helmet.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_helmet.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_horse_armor.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_horse_armor.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_leggings.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_leggings.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_pickaxe.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_pickaxe.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diamond_shovel.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diamond_shovel.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/diorite.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\diorite.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/enchanted_book.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\enchanted_book.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/ender_chest.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\ender_chest.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/ender_pearl.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\ender_pearl.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/experience_bottle.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\experience_bottle.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/goat_horn.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\goat_horn.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/golden_apple.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\golden_apple.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/golden_carrot.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\golden_carrot.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/golden_horse_armor.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\golden_horse_armor.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/granite.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\granite.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/green_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\green_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/gunpowder.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\gunpowder.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/honeycomb.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\honeycomb.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/iron_block.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\iron_block.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/iron_horse_armor.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\iron_horse_armor.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/light_blue_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\light_blue_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/lime_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\lime_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/magenta_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\magenta_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/music_disc_13.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\music_disc_13.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/music_disc_5.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\music_disc_5.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/music_disc_cat.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\music_disc_cat.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/music_disc_otherside.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\music_disc_otherside.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/netherite_upgrade_smithing_template.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\netherite_upgrade_smithing_template.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/oak_log.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\oak_log.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/packed_ice.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\packed_ice.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/prismarine.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\prismarine.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/redstone_block.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\redstone_block.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/sculk.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\sculk.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/sentry_armor_trim_smithing_template.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\sentry_armor_trim_smithing_template.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/sugar.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\sugar.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/sugar_cane.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\sugar_cane.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/tadpole_bucket.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\tadpole_bucket.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/white_wool.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\white_wool.png
+Content Type: image/png
+
+Uri: http://spx.zaralx.ru/minecraft_assets/written_book.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\minecraft_assets\written_book.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\npm\swiper@10\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\npm\swiper@10\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaK.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhA.ttf
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\s\victormono\v3\Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/94891230
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\watch\94891230
+Content Type: image/gif
+
+Uri: https://spx.zaralx.ru/
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\index.htm
+Content Type: text/html
+
+Uri: https://spx.zaralx.ru/css/style.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\style.css
+Content Type: text/css
+
+Uri: https://spx.zaralx.ru/css/tailwind.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\tailwind.css
+Content Type: text/css
+
+Uri: https://spx.zaralx.ru/css/tailwind.js
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\css\tailwind.js
+Content Type: application/javascript
+
+Uri: https://spx.zaralx.ru/font/minecraft/16326.woff
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\16326.woff
+Content Type: font/woff
+
+Uri: https://spx.zaralx.ru/font/minecraft/16326.woff2
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\16326.woff2
+Content Type: font/woff2
+
+Uri: https://spx.zaralx.ru/font/minecraft/stylesheet.css
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\font\minecraft\stylesheet.css
+Content Type: text/css
+
+Uri: https://spx.zaralx.ru/img/donation_alerts.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\donation_alerts.png
+Content Type: image/png
+
+Uri: https://spx.zaralx.ru/img/home.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\home.png
+Content Type: image/png
+
+Uri: https://spx.zaralx.ru/img/icon.ico
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\icon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://spx.zaralx.ru/img/info.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\info.png
+Content Type: image/png
+
+Uri: https://spx.zaralx.ru/img/login.svg
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\login.svg
+Content Type: image/svg+xml
+
+Uri: https://spx.zaralx.ru/img/market.png
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\img\market.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-2S9NV70PWT
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\gtag\js
+Content Type: application/javascript
+
+Uri: https://yandex.ru/ads/system/context.js
+File Name: C:\Downloaded Web Sites\spx.zaralx.ru\ads\system\context.js
+Content Type: text/javascript
+

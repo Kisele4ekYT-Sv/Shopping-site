@@ -1,0 +1,98 @@
+﻿@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaK.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Victor Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/victormono/v3/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhA.ttf) format('truetype');
+}
